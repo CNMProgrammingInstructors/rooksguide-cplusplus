@@ -1,14 +1,14 @@
 # Fdb version 3
-["makeindex cpp.idx"] 1635560466 "cpp.idx" "cpp.ind" "cpp" 1635560754
+["makeindex cpp.idx"] 1635560466 "cpp.idx" "cpp.ind" "cpp" 1635620530
   "cpp.idx" 1635560752 3013 3c63214b1c12c3204b6b96fdef66ec68 "xelatex"
   (generated)
-  "cpp.ilg"
   "cpp.ind"
-["xdvipdfmx"] 1635560752 "cpp.xdv" "cpp.pdf" "cpp" 1635560754
+  "cpp.ilg"
+["xdvipdfmx"] 1635560752 "cpp.xdv" "cpp.pdf" "cpp" 1635620530
   "cpp.xdv" 1635560752 3371768 9849008171906591d63b850d943fdb65 "xelatex"
   (generated)
   "cpp.pdf"
-["xelatex"] 1635560748 "c:/Users/Rob011235/source/repos/_rgarner7cnmedu/RooksGuide/rooksguide-cplusplus/cpp.tex" "cpp.xdv" "cpp" 1635560754
+["xelatex"] 1635560748 "c:/Users/Rob011235/source/repos/_rgarner7cnmedu/RooksGuide/rooksguide-cplusplus/cpp.tex" "cpp.xdv" "cpp" 1635620530
   "c:/Users/Rob011235/source/repos/_rgarner7cnmedu/RooksGuide/rooksguide-cplusplus/cpp.tex" 1635560395 15640 078cd77829e40974b5cca599b610a304 ""
   "c:/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1635537876 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2021/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1635545081 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
@@ -164,9 +164,9 @@
   "utils-commands.tex" 1635518389 1730 e86ddbc5e33e000f4b1ebc27aa58396a ""
   "utils-listings.tex" 1635518389 4495 b3846398632cc115d42c6b65ccd0716d ""
   (generated)
-  "cpp.toc"
   "cpp.idx"
-  "cpp.out"
   "cpp.aux"
+  "cpp.out"
   "cpp.log"
   "cpp.xdv"
+  "cpp.toc"
