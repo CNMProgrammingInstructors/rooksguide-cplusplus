@@ -1,15 +1,15 @@
 # Fdb version 3
-["makeindex cpp.idx"] 1635621258 "cpp.idx" "cpp.ind" "cpp" 1635621343
-  "cpp.idx" 1635621310 3013 3c63214b1c12c3204b6b96fdef66ec68 "xelatex"
+["makeindex cpp.idx"] 1635631986 "cpp.idx" "cpp.ind" "cpp" 1635634448
+  "cpp.idx" 1635632094 3013 3c63214b1c12c3204b6b96fdef66ec68 "xelatex"
   (generated)
   "cpp.ilg"
   "cpp.ind"
-["xdvipdfmx"] 1635621311 "cpp.xdv" "cpp.pdf" "cpp" 1635621343
-  "cpp.xdv" 1635621310 3372172 8e278d1694c1270abeb695287f31f658 "xelatex"
+["xdvipdfmx"] 1635632094 "cpp.xdv" "cpp.pdf" "cpp" 1635634448
+  "cpp.xdv" 1635632094 3388644 02477839d5b39bfb05ec6ae9cbce75e6 "xelatex"
   (generated)
   "cpp.pdf"
-["xelatex"] 1635621307 "c:/Users/Rob011235/source/repos/_rgarner7cnmedu/RooksGuide/rooksguide-cplusplus/cpp.tex" "cpp.xdv" "cpp" 1635621343
-  "c:/Users/Rob011235/source/repos/_rgarner7cnmedu/RooksGuide/rooksguide-cplusplus/cpp.tex" 1635621342 15701 0a2626b3ed615a5541005db67d53f1a9 ""
+["xelatex"] 1635632090 "c:/Users/Rob011235/source/repos/_rgarner7cnmedu/RooksGuide/rooksguide-cplusplus/cpp.tex" "cpp.xdv" "cpp" 1635634448
+  "c:/Users/Rob011235/source/repos/_rgarner7cnmedu/RooksGuide/rooksguide-cplusplus/cpp.tex" 1635621662 15701 0a2626b3ed615a5541005db67d53f1a9 ""
   "c:/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1635537876 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2021/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1635545081 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1635536170 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -118,7 +118,7 @@
   "chap_conditionals.tex" 1635518389 11973 eb4c1f8f2ce233df11e43a1c67c27eb3 ""
   "chap_constants.tex" 1635518389 4017 0aaa607c282bfa2c0ba508176c0faef0 ""
   "chap_datatypes.tex" 1635518389 14145 34fdefbbaf6c9571501982225b372e0c ""
-  "chap_devenvironment.tex" 1635620673 980 8b0aca4e9c81ecb485cb3c947b32fb4a ""
+  "chap_devenvironment.tex" 1635632094 1790 2e62e4bd6e9fa732cf7c80d81ccd49a5 ""
   "chap_dynamic.tex" 1635518389 6046 836d606db703638c6f9f5f2ae75ba093 ""
   "chap_file_io.tex" 1635518389 15918 8160bfe88e78d9e6e5103ad8afb357f6 ""
   "chap_functions.tex" 1635518389 17318 863825c8de38e13a725ba3378c2ce063 ""
@@ -133,11 +133,11 @@
   "chap_stl.tex" 1635518389 10828 40e6406755b61de4db43301f76fa2fb7 ""
   "chap_strings.tex" 1635518389 10472 0a114a2b73f5cfce4285b95e72f541ff ""
   "chap_variables.tex" 1635518389 7520 f33702432b67bda8931a15954d6ed340 ""
-  "cpp.aux" 1635621310 29923 9787d8802892e692309d9e2c022fd887 "xelatex"
-  "cpp.ind" 1635621258 2926 9722d002faed360e2d24838c303bc83f "makeindex cpp.idx"
-  "cpp.out" 1635621310 21484 6a596fbf86d46c60120205cc97e8061a "xelatex"
-  "cpp.tex" 1635621342 15701 0a2626b3ed615a5541005db67d53f1a9 ""
-  "cpp.toc" 1635621310 12197 55eec49ae1557d99f46509f036eea17d "xelatex"
+  "cpp.aux" 1635632094 30940 81a4b95348b043bd57e304c722980187 "xelatex"
+  "cpp.ind" 1635631986 2926 9722d002faed360e2d24838c303bc83f "makeindex cpp.idx"
+  "cpp.out" 1635632094 22758 497322f0959d8ec511c09ff3d20e77f3 "xelatex"
+  "cpp.tex" 1635621662 15701 0a2626b3ed615a5541005db67d53f1a9 ""
+  "cpp.toc" 1635632094 12886 344dc02d837a29a11a627baa239e44b5 "xelatex"
   "diagrams/STL-map-diagram.pdf" 1635518389 29076 eeff2fe33d407dbad2b274846385a4bc ""
   "diagrams/array-diagram-1.pdf" 1635518389 23487 ea5938c78f12d2b83143677719a098e5 ""
   "diagrams/array-diagram-2.pdf" 1635518389 24033 8d575d6e3d15787218006fdd0bfbdabf ""
@@ -164,9 +164,9 @@
   "utils-commands.tex" 1635518389 1730 e86ddbc5e33e000f4b1ebc27aa58396a ""
   "utils-listings.tex" 1635518389 4495 b3846398632cc115d42c6b65ccd0716d ""
   (generated)
-  "cpp.out"
   "cpp.aux"
   "cpp.idx"
-  "cpp.toc"
   "cpp.log"
+  "cpp.toc"
   "cpp.xdv"
+  "cpp.out"
